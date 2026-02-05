@@ -1,85 +1,94 @@
-Weather App 🌦️
-Turkish / Türkçe
-Modern ve etkileşimli bir hava durumu uygulaması. Şehir bazlı arama yaparak anlık hava durumu verilerine ulaşın ve 5 günlük hava tahminlerini dinamik bir arayüzle takip edin.
+🌦️ Weather App
 
-Özellikler ✨
-🔍 Şehir Bazlı Arama: Dünya genelindeki tüm şehirlerin verilerine erişim.
+Modern ve etkileşimli bir hava durumu uygulaması.
+Şehir bazlı arama yaparak anlık hava durumu verilerine ulaşabilir ve 5 günlük hava tahminlerini dinamik bir arayüzle takip edebilirsiniz.
 
-🌡️ Anlık Veri: Sıcaklık, nem, rüzgar hızı ve hissedilen sıcaklık bilgileri.
+🚀 Özellikler
 
-📅 5 Günlük Tahmin: Haftalık hava durumu değişimlerini görüntüleme.
+🔍 Şehir Bazlı Arama – Dünya genelindeki tüm şehirler için hava durumu verileri
 
-🎨 Dinamik Temalar: Hava durumuna göre otomatik değişen arka plan renkleri (Güneşli, Yağmurlu, Bulutlu vb.).
+🌡️ Anlık Hava Bilgisi – Sıcaklık, nem, rüzgar hızı ve hissedilen sıcaklık
 
-💾 LocalStorage: Son aranan şehirlerin tarayıcıda saklanması.
+🎨 Dinamik Temalar – Hava durumuna göre otomatik değişen arka planlar
 
-📱 Responsive Tasarım: Mobil ve masaüstü cihazlarla tam uyum.
+💾 LocalStorage Desteği – Son aranan şehirlerin kaydedilmesi
 
-Teknolojiler
+📱 Responsive Tasarım – Mobil ve masaüstü uyumlu modern arayüz
+
+🛠️ Kullanılan Teknolojiler
+
 React 19
 
 Vite
 
-Axios (API İstekleri)
+Axios
 
 OpenWeatherMap API
 
-CSS3 (Glassmorphism)
+CSS3 (Glassmorphism UI)
 
-Kurulum
+⚙️ Kurulum
 npm install
-
 npm run dev
 
-Tarayıcıda açın: http://localhost:5173
 
-Kullanım
-Arama kutusuna bir şehir ismi yazın ve "Ara" butonuna tıklayın.
+Tarayıcıda açın:
+👉 http://localhost:5173
 
-Arka planın hava durumuna göre renk değiştirmesini izleyin.
+📌 Kullanım
 
-Alt kısımda yer alan 5 günlük tahmin panelinden haftalık planınızı yapın.
+Arama kutusuna bir şehir ismi girin
 
-English / İngilizce
-A modern and interactive weather application. Search by city to access real-time weather data and track 5-day forecasts with a dynamic interface.
+Ara butonuna tıklayın
 
-Features ✨
-🔍 City-Based Search: Access data for cities worldwide.
+Hava durumuna göre arka planın değişmesini izleyin
 
-🌡️ Real-Time Data: Temperature, humidity, wind speed, and "feels like" information.
+🌍 Weather App (English)
 
-📅 5-Day Forecast: View weekly weather changes.
+A modern and interactive weather application.
+Search by city to access real-time weather data and track 5-day forecasts with a dynamic interface.
 
-🎨 Dynamic Themes: Background colors that change automatically based on weather (Sunny, Rainy, Cloudy, etc.).
+🚀 Features
 
-💾 LocalStorage: Saving the last searched cities in the browser.
+🔍 City-Based Search – Weather data for cities worldwide
 
-📱 Responsive Design: Full compatibility with mobile and desktop devices.
+🌡️ Real-Time Weather Info – Temperature, humidity, wind speed, and feels-like value
 
-Technologies
+🎨 Dynamic Themes – Automatically changing backgrounds based on weather conditions
+
+💾 LocalStorage Support – Saves recently searched cities
+
+📱 Responsive Design – Fully optimized for mobile and desktop
+
+🛠️ Technologies
+
 React 19
 
 Vite
 
-Axios (API Requests)
+Axios
 
 OpenWeatherMap API
 
-CSS3 (Glassmorphism)
+CSS3 (Glassmorphism UI)
 
-Installation
+⚙️ Installation
 npm install
-
 npm run dev
 
-Open in browser: http://localhost:5173
 
-Usage
-Enter a city name in the search box and click the "Search" button.
+Open in browser:
+👉 http://localhost:5173
 
-Watch the background change color according to the weather.
+📌 Usage
 
-Plan your week using the 5-day forecast panel at the bottom.
+Enter a city name in the search bar
 
-Author
-gkdnzcan (Gökdeniz Can)
+Click the Search button
+
+Watch the background change according to the weather
+
+👤 Author
+
+Gökdeniz Can
+GitHub: gkdnzcan
