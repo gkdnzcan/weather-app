@@ -1,16 +1,85 @@
-# React + Vite
+Weather App 🌦️
+Turkish / Türkçe
+Modern ve etkileşimli bir hava durumu uygulaması. Şehir bazlı arama yaparak anlık hava durumu verilerine ulaşın ve 5 günlük hava tahminlerini dinamik bir arayüzle takip edin.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Özellikler ✨
+🔍 Şehir Bazlı Arama: Dünya genelindeki tüm şehirlerin verilerine erişim.
 
-Currently, two official plugins are available:
+🌡️ Anlık Veri: Sıcaklık, nem, rüzgar hızı ve hissedilen sıcaklık bilgileri.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📅 5 Günlük Tahmin: Haftalık hava durumu değişimlerini görüntüleme.
 
-## React Compiler
+🎨 Dinamik Temalar: Hava durumuna göre otomatik değişen arka plan renkleri (Güneşli, Yağmurlu, Bulutlu vb.).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💾 LocalStorage: Son aranan şehirlerin tarayıcıda saklanması.
 
-## Expanding the ESLint configuration
+📱 Responsive Tasarım: Mobil ve masaüstü cihazlarla tam uyum.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Teknolojiler
+React 19
+
+Vite
+
+Axios (API İstekleri)
+
+OpenWeatherMap API
+
+CSS3 (Glassmorphism)
+
+Kurulum
+npm install
+
+npm run dev
+
+Tarayıcıda açın: http://localhost:5173
+
+Kullanım
+Arama kutusuna bir şehir ismi yazın ve "Ara" butonuna tıklayın.
+
+Arka planın hava durumuna göre renk değiştirmesini izleyin.
+
+Alt kısımda yer alan 5 günlük tahmin panelinden haftalık planınızı yapın.
+
+English / İngilizce
+A modern and interactive weather application. Search by city to access real-time weather data and track 5-day forecasts with a dynamic interface.
+
+Features ✨
+🔍 City-Based Search: Access data for cities worldwide.
+
+🌡️ Real-Time Data: Temperature, humidity, wind speed, and "feels like" information.
+
+📅 5-Day Forecast: View weekly weather changes.
+
+🎨 Dynamic Themes: Background colors that change automatically based on weather (Sunny, Rainy, Cloudy, etc.).
+
+💾 LocalStorage: Saving the last searched cities in the browser.
+
+📱 Responsive Design: Full compatibility with mobile and desktop devices.
+
+Technologies
+React 19
+
+Vite
+
+Axios (API Requests)
+
+OpenWeatherMap API
+
+CSS3 (Glassmorphism)
+
+Installation
+npm install
+
+npm run dev
+
+Open in browser: http://localhost:5173
+
+Usage
+Enter a city name in the search box and click the "Search" button.
+
+Watch the background change color according to the weather.
+
+Plan your week using the 5-day forecast panel at the bottom.
+
+Author
+gkdnzcan (Gökdeniz Can)
